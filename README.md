@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GamzeVatansever
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning Unity
+- 👀 I’m interested in Data analysis and UX research
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
