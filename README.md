@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GamzeVatansever
-- 👀 I’m interested in Data analysis and UX research
+- 👀 I’m interested Front end Development
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
