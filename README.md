@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GamzeVatansever
-- 👀 I’m interested Front end Development
-- 🌱 I’m currently learning React
+- 👀 I’m interested Ui Development and Ux Design
+- 🌱 My Linkedin Profile: https://www.linkedin.com/in/gamzevatansever/
 
 
 
