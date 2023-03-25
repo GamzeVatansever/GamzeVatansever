@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GamzeVatansever
-- 👀 I’m interested Ui Development and Ux Design
+- 👀 I’m interested Front End Development and Ux Design.
 - 🌱 My Linkedin Profile: https://www.linkedin.com/in/gamzevatansever/
 
 
